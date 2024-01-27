@@ -15,8 +15,3 @@ TUTORIAL PENGGUNAAN,
 OPEN ANACONDA TERMINAL PADA FOLDER INI
 JALANKAN "python apps.py"
 AKSES DI WEB "localhost:5000"
-
-pembuatan model dengan jupyter notebook Percobaan C - CNN from Scratch.ipynb, 
-jupyter notebook Percobaan D - CNN add Model VGG16,
-jupyter notebook Percobaan E - CNN add Models Xception, 
-jupyter notebook Percobaan F - CNN add Models NASNetMobile
